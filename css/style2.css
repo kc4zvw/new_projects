@@ -91,9 +91,11 @@ h2 {
             padding: 0 1em 0 1em;
             display: table; }
 
+.www_copyright { text-align: left; color: #ffbf00; background: blue; padding: 0 0 0 0 }
+
 .www_footer { text-align: left; color: #ffbf00; background: blue; padding: 0 0 0 0 }
 
-/* EOF */
+/* End of File */
 
 
 /* End of File */

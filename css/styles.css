@@ -67,6 +67,10 @@ h2 {
                background: url("/images/lines.gif");
                border: 2px solid #cccccc }
 
+.www_title2  { font-family: "Georgia,Palatino,Times,Roman";
+              font-size: 22pt;
+              text-align: center; }
+
 .www_sectiontitle, .www_subsection {
                border-width: 1px;
                border-style: solid none;
@@ -92,7 +96,9 @@ h2 {
             padding: 0 1em 0 1em;
             display: table; }
 
-.www_footer { text-align: left; color: white; background: #B0C4DE; padding: 0 0 0 0 }
+.www_copyright { text-align: left; color: white; background: #B0C4DE; padding: 0 0 0 0 }
+
+.www_footer { text-align: left; color: yellow; background: #B0C4DE; padding: 0 0 0 0 }
 
 
 /* End of File */
